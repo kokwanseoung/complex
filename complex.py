@@ -1,8 +1,6 @@
 """
-고관성: maintainer
+고관성: maintainer, multiplication
 신혜지: addition, subtraction
-박혜은: multiplication
-
 """
 class Complex:
     def __init__(self, re=0, im=0):
